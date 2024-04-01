@@ -1,0 +1,42 @@
+*{
+  background-color: c0c6c1;
+  flex-box:inline;
+  font-style: ;
+}
+@media {
+  width:"300px";
+}
+img{
+  width: 200px;
+  height: 150px;
+}
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow-y: auto;
+}
+  display: flex;
+
+
+  }
+    header {
+      position: fixed;
+    }
+    #nav-bar {
+     position: fixed;
+  
+}
+
+.nav-bar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow-y: auto;
+}
